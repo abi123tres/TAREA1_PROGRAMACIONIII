@@ -15,3 +15,4 @@ Estas deben ser implementadas en el main y el código debe compilar sin errores.
 
 Para su compilación usamos el programa C++ para una mejor visualización del código, ya que es un programa extenso.
 Al culminar con la ejecución debe mostrar el siguiente mensaje en la consola: "Process finished with exit code 0" para constatar que el programa compila con éxito.
+#Abigail Cabanillas
